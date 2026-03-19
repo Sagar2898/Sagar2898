@@ -1,13 +1,21 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%"/>
+</p>
+
 <h1 align="center">
-  🚀✨ <b>WELCOME TO SAGAR'S GITHUB PROFILE</b> ✨🚀
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=900&lines=>>>+WELCOME+TO+SAGAR'S+SYSTEM;>>>+ACCESS+GRANTED;>>>+DEVOPS+ENGINEER;>>>+AWS+|+DOCKER+|+KUBERNETES;>>>+AUTOMATION+|+CI/CD" />
 </h1>
 
 <h3 align="center">
-  💻 DevOps Engineer | ☁️ Cloud | 🐧 Linux | ⚙️ Automation
+  🟢 SYSTEM STATUS: ONLINE <br>
+  🟢 USER: SAGAR <br>
+  🟢 MODE: DEVOPS ENGINEER
 </h3>
 
+<br>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+Sagar's+Profile;DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI/CD+%7C+Automation;Always+Learning+New+Things" />
+  <img src="https://raw.githubusercontent.com/Sagar2898/Sagar2898/main/coder.png" width="350"/>
 </p>
 
 <hr>
@@ -15,7 +23,6 @@
 <table>
 <tr>
 
-<!-- LEFT SIDE -->
 <td width="35%" align="center">
 
 <img src="https://raw.githubusercontent.com/Sagar2898/Sagar2898/main/myphoto.jpg" width="220"/>
@@ -25,17 +32,16 @@
 <h2><b>SAGAR</b></h2>
 
 <p>
-🔥 <b>DevOps Enthusiast</b><br>
-⚡ <b>Automation Lover</b><br>
-☁️ <b>Cloud Explorer</b>
+🔥 DevOps Enthusiast <br>
+⚡ Automation Lover <br>
+☁️ Cloud Explorer
 </p>
 
 </td>
 
-<!-- RIGHT SIDE -->
 <td width="65%" align="center">
 
-<h2>🚀 <b>TECH STACK</b></h2>
+<h2>💻 TECH STACK [ACCESS GRANTED]</h2>
 
 <p>
 <a href="https://skillicons.dev">
@@ -45,22 +51,18 @@
 
 <br>
 
-<h2>📊 <b>GITHUB STATS</b></h2>
+<h2>📊 SYSTEM ANALYTICS</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sagar2898&show_icons=true&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagar2898&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sagar2898&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://streak-stats.demolab.com?user=Sagar2898&theme=tokyonight&hide_border=true"/>
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar2898&layout=compact&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar2898&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 </td>
@@ -70,26 +72,22 @@
 
 <hr>
 
-<h2 align="center">📬 <b>CONNECT WITH ME</b></h2>
+<h2 align="center">📡 INITIATE CONNECTION</h2>
 
 <p align="center">
   <a href="mailto:sagardevops96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sagardevops96%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-sagardevops96%40gmail.com-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sagar-prasad-nayak-10441226b">
-    <img src="https://img.shields.io/badge/LinkedIn-Sagar%20Prasad%20Nayak-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Sagar-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 <hr>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sagar2898&label=Profile%20views&color=blueviolet&style=flat" />
+  🟢 SYSTEM LOG: Profile Loaded Successfully...
 </p>
-
-<h3 align="center">
-  🌟 <b>Thanks for visiting my profile!</b> 🌟
-</h3>
