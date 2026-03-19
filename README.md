@@ -1,16 +1,8 @@
+<h2 align="center">🐍 Contribution Snake</h2>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Sagar2898/Sagar2898/output/github-contribution-grid-snake.svg" />
 </p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=900&lines=>>>+WELCOME+TO+SAGAR'S+SYSTEM;>>>+ACCESS+GRANTED;>>>+DEVOPS+ENGINEER;>>>+AWS+|+DOCKER+|+KUBERNETES;>>>+AUTOMATION+|+CI/CD" />
-</h1>
-
-<h3 align="center">
-  🟢 SYSTEM STATUS: ONLINE <br>
-  🟢 USER: SAGAR <br>
-  🟢 MODE: DEVOPS ENGINEER
-</h3>
 
 <br>
 
