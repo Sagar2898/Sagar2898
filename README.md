@@ -39,7 +39,7 @@
 
 <p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,wasm,linux,aws,docker,kubernetes,git,github,python,bash,terraform,ansible,jenkins" />
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,git,github,python,bash,terraform,ansible,jenkins" />
 </a>
 </p>
 
