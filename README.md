@@ -15,9 +15,10 @@
 <table>
 <tr>
 
+<!-- LEFT SIDE -->
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/myphoto.jpg" width="220"/>
+<img src="https://raw.githubusercontent.com/Sagar2898/Sagar2898/main/myphoto.jpg" width="220"/>
 
 <br><br>
 
@@ -31,13 +32,14 @@
 
 </td>
 
+<!-- RIGHT SIDE -->
 <td width="65%" align="center">
 
 <h2>🚀 <b>TECH STACK</b></h2>
 
 <p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,wasm,linux,aws,docker,kubernetes,git,github,python,bash,terraform,ansible,jenkins" />
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,git,github,python,bash,terraform,ansible,jenkins" />
 </a>
 </p>
 
@@ -45,21 +47,21 @@
 
 <h2>📊 <b>GITHUB STATS</b></h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagar2898&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<br><br>
+<br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sagar2898&theme=tokyonight&hide_border=true" />
+</p>
 
-<br><br>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<h2>⚡ <b>SAGAR'S ACTIVITY GRAPH</b> ⚡</h2>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar2898&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 </td>
 
@@ -68,8 +70,24 @@
 
 <hr>
 
+<h2 align="center">📬 <b>CONNECT WITH ME</b></h2>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blueviolet&style=flat" />
+  <a href="mailto:sagardevops96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sagardevops96%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sagar-prasad-nayak-10441226b">
+    <img src="https://img.shields.io/badge/LinkedIn-Sagar%20Prasad%20Nayak-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sagar2898&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
 
 <h3 align="center">
