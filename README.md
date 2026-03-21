@@ -100,7 +100,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=14&lines=Let's+Build+Something+Amazing+🚀;Cloud+%7C+DevOps+%7C+Automation;Always+Learning+🔥" />
 </p>
-
 <hr style="border:1px solid #00F7FF;">
 
 <!-- 🟢 FOOTER -->
