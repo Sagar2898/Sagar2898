@@ -1,3 +1,4 @@
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
@@ -21,12 +22,19 @@
 
 <br><br>
 
-<h2><b>SAGAR</b></h2>
+<h2>
+  <b style="color:#00F7FF; font-size:28px;">⚡ SAGAR ⚡</b>
+</h2>
 
-<p>
-🔥 DevOps Enthusiast <br>
-⚡ Automation Lover <br>
-☁️ Cloud Explorer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=18&lines=🔥+DevOps+Engineer;⚡+Automation+Specialist;☁️+AWS+Cloud+Explorer;🚀+CI%2FCD+Pipeline+Builder" />
+</p>
+
+<p align="center">
+🔥 <b>DevOps Engineer</b> <br>
+⚡ <b>Automation Specialist</b> <br>
+☁️ <b>AWS Cloud Explorer</b> <br>
+🚀 <b>CI/CD Pipeline Builder</b>
 </p>
 
 </td>
