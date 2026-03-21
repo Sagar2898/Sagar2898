@@ -17,7 +17,7 @@
 
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/Sagar2898/Sagar2898/main/myphoto.jpg?v=2" width="220"/>
+<img src="https://raw.githubusercontent.com/Sagar2898/Sagar2898/main/profile.png" width="220"/>
 
 <br><br>
 
