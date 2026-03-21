@@ -1,4 +1,3 @@
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
@@ -8,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sagar2898/Sagar2898/main/coder.png" width="350"/>
+  <img src="https://raw.githubusercontent.com/Sagar2898/Sagar2898/main/coder.png?v=2" width="350"/>
 </p>
 
 <hr>
@@ -18,7 +17,7 @@
 
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/Sagar2898/Sagar2898/main/myphoto.jpg" width="220"/>
+<img src="https://raw.githubusercontent.com/Sagar2898/Sagar2898/main/myphoto.jpg?v=2" width="220"/>
 
 <br><br>
 
