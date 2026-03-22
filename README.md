@@ -13,7 +13,7 @@
 
 <td width="35%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/Sagar2898/Sagar2898/main/profile_new.png?v=2" width="200" style="border-radius:50%; border:2px solid #00F7FF;"/>
+<img src="https://raw.githubusercontent.com/Sagar2898/Sagar2898/main/profile_new.png?v=2" width="300" style="border-radius:50%; border:2px solid #00F7FF;"/>
 
 <h3 style="color:#00F7FF;">🚀 About Me</h3>
 
