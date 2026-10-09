@@ -55,13 +55,15 @@
 
 <!-- 📊 ADVANCED DEVOPS ANALYTICS -->
 
+
 <h2 align="center">📊 DevOps Analytics</h2>
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Sagar2898&theme=react-dark&hide_border=true&area=true"
-    alt="Sagar's GitHub Activity Graph"
+    alt="GitHub Activity Graph"
     width="95%"
+    height="180"
   />
 </p>
 
