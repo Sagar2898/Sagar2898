@@ -54,11 +54,15 @@
 <hr style="border:1px solid #00F7FF;">
 
 <!-- 📊 ADVANCED DEVOPS ANALYTICS -->
-<h2 align="center">📊 𝘿𝙚𝙫𝙊𝙥𝙨 𝘼𝙣𝙖𝙡𝙮𝙩𝙞𝙘𝙨
 
-<!-- CONTRIBUTION GRAPH -->
+<h2 align="center">📊 DevOps Analytics</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagar2898&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sagar2898&theme=react-dark&hide_border=true&area=true"
+    alt="Sagar's GitHub Activity Graph"
+    width="95%"
+  />
 </p>
 
 <!-- 📊 STATS -->
